@@ -1,0 +1,2 @@
+module RatePointsHelper
+end

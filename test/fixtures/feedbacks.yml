@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  lead: one
+  user: one
+  feedback: MyText
+  satisfied_rate: false
+  satisfied_points: false
+  comments: MyText
+
+two:
+  lead: two
+  user: two
+  feedback: MyText
+  satisfied_rate: false
+  satisfied_points: false
+  comments: MyText
